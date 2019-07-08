@@ -1,0 +1,12 @@
+[package]
+name = "rusty_poker"
+version = "0.1.0"
+authors = ["Brandon Janson <bjanson28@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+arrayvec = "0.4.10"
+arr_macro = "0.1.2"
+rand = "0.7"
